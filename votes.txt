@@ -456,7 +456,7 @@ Timesplitters: Future Perfect
 Star Wars: Galactic Battlegrounds
 Age of Empires II
 Heretic
-Doom 2
+Doom II: Hell on Earth
 Vampire - The Masquerade: Bloodlines
 Metroid Prime
 Star Wars: Battlefront 2
@@ -912,7 +912,7 @@ Portal
 Metal Gear Solid 2
 Timesplitters 2
 Bioshock 2
-Doom II
+Doom II: Hell on Earth
 The Stanley Parable
 Katamari Forever
 The Wolf Among Us
@@ -1317,7 +1317,7 @@ Kirby 64: The Crystal Shards
 Metal Gear Solid 3: Subsistence
 Ultima V: Warriors of Destiny
 Doom
-Doom II
+Doom II: Hell on Earth
 Expeditions: Conquistador
 Touhou Youyoumu: Perfect Cherry Blossom
 Wizards & Warriors
