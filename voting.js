@@ -43,7 +43,7 @@ function buildGameList(users) {
     
     for (var user = 0; user < users.length; ++user) {
         for (var game = 0; game < users[user].votes.length; ++game) {
-            gameList.addVote(users[user].votes[game]);
+            gameList.addVote(users[user].votes[game], game + 1);
         }
     }
     
@@ -62,7 +62,7 @@ function main() {
     var request = new XMLHttpRequest();
     request.onreadystatechange = function() {
         if (request.readyState == 4) {
-            displayResults(buildGameList(getVotes(request.responseText)).games);
+            displayResults(scoreSum(buildGameList(getVotes(request.responseText)).games));
         }
     };
     request.open("GET", "votes.txt", true);
