@@ -21,7 +21,7 @@ function displayResults(games) {
 function getVotes(fileContents) {
     var users = [];
     
-    var contents = fileContents.split("\r\n");
+    var contents = fileContents.split("\n");
     for (var i = 0; i < contents.length; ++i) {
         if (contents[i].charAt(0) == '{') {
             users.push(new User(contents[i].substring(1)));
