@@ -3,3 +3,8 @@ body {
     color: #ffffff;
     font-family: 'Roboto Condensed', sans-serif;
 }
+
+.game {
+    width: 800px;
+    text-align: left;
+}
