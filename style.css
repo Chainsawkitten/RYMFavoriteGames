@@ -8,6 +8,14 @@ body {
     width: 800px;
 }
 
+.separator {
+    margin: 5px 0px;
+    padding: 0;
+    width: 529px;
+    height: 2px;
+    background: url("img/line.png");
+}
+
 .game {
     width: 100%;
     clear: left;
