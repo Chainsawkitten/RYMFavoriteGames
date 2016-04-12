@@ -652,11 +652,11 @@ Disaster Report
 Lost in Blue 2
 The Wolf Among Us
 {Tombas
-Touhou Yumejikuu
+Phantasmagoria of Dim.Dream
 Advance Wars: Dual Strike
 Advance Wars 2: Black Hole Rising
 Money Idol Exchanger
-Touhou Kaeidzuka
+Phantasmagoria of Flower View
 Disgaea: Hour of Darkness
 Advance Wars: Days of Ruin
 Advance Wars
@@ -679,7 +679,7 @@ Gunbird 2
 Kirby & the Amazing Mirror
 Sutte Hakkun
 Yume Nikki
-Touhou Reiiden
+Highly Responsive to Prayers
 Soldam
 Minesweeper
 Armed Police Batrider
@@ -699,7 +699,7 @@ Super Mario Sunshine
 Final Fantasy Tactics Advance 2: Grimoire of the Rift
 Mario Kart: Double Dash‼
 Total Annihilation: Kingdoms
-Touhou Chireiden
+Subterranean Animism
 Ico
 The Crayon Factory
 {Armotekma
@@ -1301,7 +1301,7 @@ Super Mario Bros. 3
 Super Mario 64
 Super Mario Sunshine
 Fallout: New Vegas
-Touhou Kaeitzuka: Phantasmagoria of Flower View
+Phantasmagoria of Flower View
 Battleblock Theater
 The Legend of Zelda
 Master of Orion II: Battle at Antares
@@ -1311,7 +1311,7 @@ Demon's Souls
 Dark Souls
 Vampire The Masquerade: Bloodlines
 Pokémon Gold & Silver & Crystal
-Touhou Seirensen: Undefined Fantastic Object
+Undefined Fantastic Object
 Star Wars: Knights of the Old Republic II - The Sith Lords
 Kirby 64: The Crystal Shards
 Metal Gear Solid 3: Subsistence
@@ -1319,7 +1319,7 @@ Ultima V: Warriors of Destiny
 Doom
 Doom II: Hell on Earth
 Expeditions: Conquistador
-Touhou Youyoumu: Perfect Cherry Blossom
+Perfect Cherry Blossom
 Wizards & Warriors
 Neverwinter Nights 2: Mask of the Betrayer
 Sonic & All-Stars Racing Transformed
@@ -1887,7 +1887,7 @@ Unreal Tournament
 The Legend of Zelda: A Link to the Past
 System Shock 2
 Pathologic
-Touhou Seirensen: Undefined Fantastic Object
+Undefined Fantastic Object
 Super Mario Bros. 3
 Dark Souls
 Oddworld: Abe's Exoddus
