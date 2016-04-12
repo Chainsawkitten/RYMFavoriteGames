@@ -587,7 +587,7 @@ Grand Theft Auto: San Andreas
 Super Smash Bros Brawl
 Shadowrun
 Shinobi III: Return of the Ninja Master
-Killer 7
+Killer7
 Super Mario World
 Castlevania: Aria of Sorrow
 World of Goo
@@ -1254,7 +1254,7 @@ Diablo II
 Spyro 2: Ripto's Rage
 Kingdom of Hearts
 Catherine
-Killer 7
+Killer7
 Blood
 Canis Canem Edit
 Alan Wake
@@ -1542,7 +1542,7 @@ Space Invaders
 Braid
 Pokemon Gold & Silver & Crystal
 Ratchet & Clank: Going Commando
-Killer 7
+Killer7
 Super Smash Bros. Melee
 Yoshi's Story
 Bee
@@ -1753,7 +1753,7 @@ Shadow of the Colossus
 Tail of the Sun
 Xenogears
 Undertale
-Killer 7
+Killer7
 Another World
 The Wonderful 101
 Final Fantasy XII
