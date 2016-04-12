@@ -156,7 +156,7 @@ Final Fantasy VI
 Secret of Mana
 Uncharted 2
 Red Dead Redemption
-Skyrim
+The Elder Scrolls V: Skyrim
 Final Fantasy X
 Super Mario Galaxy
 Shadow of the Colossus
@@ -1221,7 +1221,7 @@ Deus Ex: Human Revolution
 Dragons Dogma: Dark Arisen
 Okami
 Resident Evil Remake
-Morrowind
+The Elder Scrolls III: Morrowind
 Devil May Cry 3: Dante's Awakening
 Alpha Protocol
 Thief 2
@@ -1460,7 +1460,7 @@ Tales of Vesperia
 {MrMoustache
 The Last of Us
 Metal Gear Solid
-Elder Scrolls V - Skyrim
+The Elder Scrolls V: Skyrim
 Shadow of the Colossus
 Grand Theft Auto V
 Resident Evil (2002)
@@ -1490,7 +1490,7 @@ Ultimate Mortal Kombat 3
 Metal Gear Solid 4 - Guns of the Patriots
 Mercenaries - Playground of Destruction
 Outlast
-The Elder Scrolls IV - Oblivion
+The Elder Scrolls IV: Oblivion
 Metal Gear Solid 2 - Sons of Liberty
 X-Men 2 : Clone Wars
 God of War
@@ -1825,7 +1825,7 @@ Disgaea 5
 Master of Orion 2
 Doom
 Super Mario World
-Morrowind
+The Elder Scrolls III: Morrowind
 No-one Lives Forever
 Half Life 2 Deathmatch
 Fallout
