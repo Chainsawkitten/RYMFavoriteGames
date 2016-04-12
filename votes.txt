@@ -1386,7 +1386,7 @@ Papers, Please
 {SUPER_Lonely_Panda
 Harvester
 {Yakmang
-Baldurs Gate 2: Shadows of Amn 
+Baldur's Gate II: Shadows of Amn
 Okami
 Undertale
 Binding of Isaac: Rebirth
@@ -1817,7 +1817,7 @@ Silent Hill 2
 The Chronicles of Riddick: Escape From Butcher Bay
 {Skinead_bufty
 Dark Souls
-Baldurs Gate 2
+Baldur's Gate II: Shadows of Amn
 Thief: The Dark Project
 Europa universalis 4
 Civilization 5
