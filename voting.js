@@ -88,6 +88,16 @@ function getAndDisplayGames(scoreFunction, sortFunction) {
  * Update game list.
  */
 function updateGames() {
+    var scoreFunction;
+    switch (document.getElementById('scoringFormula').value) {
+        case 'sumCount':
+            scoreFunction = scoreSumCount;
+            break;
+        case 'sum':
+        default:
+            scoreFunction = scoreSum;
+    }
+    
     var sortingFunction;
     switch (document.getElementById('sortBy').value) {
         case 'name':
@@ -98,7 +108,7 @@ function updateGames() {
             sortingFunction = sortScoreDescending;
     }
     
-    getAndDisplayGames(scoreSum, sortingFunction);
+    getAndDisplayGames(scoreFunction, sortingFunction);
 }
 
 /**
