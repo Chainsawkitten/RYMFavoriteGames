@@ -925,7 +925,7 @@ Doom
 Sonic the Hedgehog (1991)
 Saints Row IV
 Batman: Arkham Asylum
-The Binding of Isaac Rebirth
+The Binding of Isaac: Rebirth
 Grand Theft Auto III
 Super Mario Bros. 3
 Big Rigs: Over the Road Racing
@@ -1389,7 +1389,7 @@ Harvester
 Baldur's Gate II: Shadows of Amn
 Okami
 Undertale
-Binding of Isaac: Rebirth
+The Binding of Isaac: Rebirth
 Hotline Miami
 Goldeneye 007
 Tetris
