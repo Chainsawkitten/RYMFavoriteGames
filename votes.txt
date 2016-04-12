@@ -139,7 +139,7 @@ Metal Gear Solid
 Chrono Trigger
 Mass Effect 2
 The Last of Us
-The Lgend of Zelda: The Wind Waker
+The Legend of Zelda: The Wind Waker
 Fallout 3
 Final Fantasy IX
 Jak and Daxter: The Precursor Legacy
@@ -715,7 +715,7 @@ Super Mario 64
 Resident Evil 0
 Luigi's Mansion
 Half-Life 2
-The Legend of Zelda: Wind Waker
+The Legend of Zelda: The Wind Waker
 Resident Evil (2002)
 Call of Duty 4: Modern Warfare
 Mass Effect
@@ -1050,7 +1050,7 @@ The Legend of Zelda: Ocarina of Time
 Banjo-Kazooie
 The Dig
 Diddy Kong Racing
-The Legend of Zelda: Windwaker HD
+The Legend of Zelda: The Wind Waker HD
 Uncharted 3
 Super Mario Galaxy 2
 Tony Hawk's Pro Skater
@@ -1261,7 +1261,7 @@ Alan Wake
 {soleils
 Shadow of the Colossus
 Journey
-The Legend of Zelda: Link's Awakening DX
+The Legend of Zelda: Link's Awakening
 Pokémon Red & Blue & Yellow
 Championship Manager 01/02
 Day of the Tentacle
