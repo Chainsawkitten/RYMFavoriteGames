@@ -522,7 +522,7 @@ The Legend of Zelda: A Link Between Worlds
 Gears of War
 Mario Kart: Double Dash‼
 The Legend of Zelda: Majora's Mask
-Tony Hawk Pro Skater 2
+Tony Hawk's Pro Skater 2
 Super Smash Bros. Melee
 Super Smash Bros. Brawl
 Mario Golf
@@ -536,7 +536,7 @@ Fire Emblem: Awakening
 Animal Crossing
 Pokémon Ruby & Sapphire & Emerald
 Donkey Kong Country 3 Dixie Kong's Double Trouble
-Tony Hawk Pro Skater
+Tony Hawk's Pro Skater
 Gears of War 2
 Super Mario 3D World
 Battle Tanx: Global Assault
@@ -893,7 +893,7 @@ The Witcher III
 Fallout 3
 Splatoon
 Mirror's Edge
-Tony Hawks Pro Skater 2
+Tony Hawk's Pro Skater 2
 Sim City 4
 Undertale
 Tomb Raider (2013)
@@ -904,7 +904,7 @@ Resident Evil 2
 Bioshock Infinite
 Saints Row the Third
 Dragon Age Inquisition
-Tony Hawks Pro Skater
+Tony Hawk's Pro Skater
 Street Fighter 4
 Metal Gear Solid
 Grand Theft Auto: Vice City
@@ -1082,7 +1082,7 @@ Metal Gear Solid V: The Phantom Pain
 BioShock
 Batman: Arkham City
 ICO
-Tony Hawk Pro Skater 4
+Tony Hawk's Pro Skater 4
 Borderlands 2
 Resident Evil 3: Nemesis
 Donkey Kong Country 2: Diddy's Kong Quest
@@ -1523,7 +1523,7 @@ NBA 2K11
 RollerCoaster Tycoon 2
 Banjo-Kazooie
 Super Smash Bros. Brawl
-Tony Hawk Pro Skater 2
+Tony Hawk's Pro Skater 2
 Mario Party 3
 Fusion Frenzy
 Banjo-Tooie
