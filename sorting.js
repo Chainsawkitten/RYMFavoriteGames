@@ -7,3 +7,18 @@
 function sortScoreDescending(a, b) {
     return b.score - a.score;
 }
+
+/**
+ * Sort helper function for sorting games by name (ascending).
+ * Arguments:
+ *  a - Game A.
+ *  b - Game B.
+ */
+function sortNameAscending(a, b) {
+    if (a.name.toLowerCase() == b.name.toLowerCase())
+        return 0;
+    else if (a.name.toLowerCase() < b.name.toLowerCase())
+        return -1;
+    else
+        return 1;
+}

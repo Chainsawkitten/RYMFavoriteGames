@@ -88,7 +88,17 @@ function getAndDisplayGames(scoreFunction, sortFunction) {
  * Update game list.
  */
 function updateGames() {
-    getAndDisplayGames(scoreSum, sortScoreDescending);
+    var sortingFunction;
+    switch (document.getElementById('sortBy').value) {
+        case 'name':
+            sortingFunction = sortNameAscending;
+            break;
+        case 'score':
+        default:
+            sortingFunction = sortScoreDescending;
+    }
+    
+    getAndDisplayGames(scoreSum, sortingFunction);
 }
 
 /**
