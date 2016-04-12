@@ -1090,7 +1090,7 @@ Metal Gear Solid
 Prince of Persia: Sands of Time
 Kingdom Hearts II
 DmC: Devil May Cry
-Crash Bandicoot 2
+Crash Bandicoot 2: Cortex Strikes Back
 Crash Bandicoot 3
 King of Fighters '98
 Left 4 Dead 2
@@ -1566,7 +1566,7 @@ Oddworld: Stranger's Wrath
 Super Mario Land 2: Six Golden Coins
 Final Fantasy X
 Warioware Inc. Mega Micro Games
-Crash Bandicoot Warped
+Crash Bandicoot: Warped
 Silent Hill III
 orms
 Mario Power Tennis
