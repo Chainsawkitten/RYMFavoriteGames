@@ -18,7 +18,18 @@ function displayResults(games) {
  *  fileContents - Contents of the vote file.
  */
 function getVotes(fileContents) {
-    return [];
+    var users = [];
+    
+    var contents = fileContents.split("\n");
+    for (var i = 0; i < contents.length; ++i) {
+        if (contents[i].charAt(0) == '{') {
+            users.push(new User(contents[i].substring(1)));
+        } else {
+            users[users.length - 1].votes.push(contents[i]);
+        }
+    }
+    
+    return users;
 }
 
 /**
