@@ -684,7 +684,7 @@ Soldam
 Minesweeper
 Armed Police Batrider
 Yousei Daisensou
-Golden Sun 2: The Lost Age
+Golden Sun: The Lost Age
 Golden Sun
 Final Fantasy Tactics Advance
 Super Famicom Wars
@@ -873,7 +873,7 @@ Mass Effect
 Chrono Cross
 Final Fantasy V
 Golden Sun
-Golden Sun 2
+Golden Sun: The Lost Age
 Simcity
 Civilization
 Shadow Hearts
