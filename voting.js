@@ -51,12 +51,14 @@ function buildGameList(users) {
 }
 
 /**
- * main()
+ * Get and display all the games.
+ * Arguments:
+ *  scoreFunction - Function to use to score games.
+ *  sortFunction - Function to use to sort games.
  */
-window.onload = main;
-
-function main() {
-    "use strict";
+function getAndDisplayGames(scoreFunction, sortFunction) {
+    // Display loading message.
+    document.getElementById('results').innerHTML = "Working...";
     
     // Read votes from file and display them.
     var request = new XMLHttpRequest();
@@ -69,10 +71,10 @@ function main() {
             var gameList = buildGameList(users);
             
             // Score games according to scoring formula.
-            var games = scoreSum(gameList.games);
+            var games = scoreFunction(gameList.games);
             
             // Sort games.
-            games = games.sort(sortScoreDescending);
+            games = games.sort(sortFunction);
             
             // Display the results.
             displayResults(games);
@@ -80,4 +82,25 @@ function main() {
     };
     request.open("GET", "votes.txt", true);
     request.send();
+}
+
+/**
+ * Update game list.
+ */
+function updateGames() {
+    getAndDisplayGames(scoreSum, sortScoreDescending);
+}
+
+/**
+ * main()
+ */
+window.onload = main;
+
+function main() {
+    "use strict";
+    
+    document.getElementById('scoringFormula').onchange = updateGames;
+    document.getElementById('sortBy').onchange = updateGames;
+    
+    updateGames();
 }
