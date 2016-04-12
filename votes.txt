@@ -714,12 +714,12 @@ GoldenEye 007
 Super Mario 64
 Resident Evil 0
 Luigi's Mansion
-Half Life 2
+Half-Life 2
 The Legend of Zelda: Wind Waker
 Resident Evil (2002)
 Call of Duty 4: Modern Warfare
 Mass Effect
-Half Life
+Half-Life
 The Saboteur
 Call of Duty: Modern Warfare 2
 The Witcher III
@@ -1478,7 +1478,7 @@ Grand Theft Auto IV
 Dino Crisis
 Silent Hill 2
 Manhunt
-Half Life
+Half-Life
 Metal Gear Solid 3 - Snake Eater
 Alien: Isolation
 Dying Light
@@ -1827,7 +1827,7 @@ Doom
 Super Mario World
 The Elder Scrolls III: Morrowind
 No-one Lives Forever
-Half Life 2 Deathmatch
+Half-Life 2 Deathmatch
 Fallout
 Tie Fighter
 Creeper World 3:Arc Eternal
