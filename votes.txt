@@ -1638,7 +1638,7 @@ The Simpsons: Arcade Game
 Galaga
 {gumbyjaws
 Tapper
-Master of Orion 2
+Master of Orion II: Battle at Antares
 Civilization III
 Ratchet & Clank: Up Your Arsenal
 Pokemon Gold & Silver & Crystal
@@ -1822,7 +1822,7 @@ Thief: The Dark Project
 Europa universalis 4
 Civilization V
 Disgaea 5
-Master of Orion 2
+Master of Orion II: Battle at Antares
 Doom
 Super Mario World
 The Elder Scrolls III: Morrowind
