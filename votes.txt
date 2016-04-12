@@ -65,7 +65,7 @@ Hotline Miami
 Grand Theft Auto: San Andreas
 Donkey Kong Country 2
 Demon's Souls
-Devil May Cry 3
+Devil May Cry 3: Dante's Awakening
 Streets of Rage 2
 Limbo
 Earthbound
@@ -1222,7 +1222,7 @@ Dragons Dogma: Dark Arisen
 Okami
 Resident Evil Remake
 Morrowind
-Devil May Cry 3
+Devil May Cry 3: Dante's Awakening
 Alpha Protocol
 Thief 2
 Vampire The Masquerade: Bloodlines
@@ -1701,7 +1701,7 @@ Metal Gear Solid 3: Snake Eater
 Harvest Moon: Magical Melody
 Super Metroid
 Portal 2
-Devil May Cry 3
+Devil May Cry 3: Dante's Awakening
 The Legend of Zelda: Ocarina of Time
 Resident Evil 4
 Bully
