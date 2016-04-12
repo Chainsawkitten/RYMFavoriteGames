@@ -142,7 +142,7 @@ The Last of Us
 The Lgend of Zelda: The Wind Waker
 Fallout 3
 Final Fantasy IX
-Jak and Daxter
+Jak and Daxter: The Precursor Legacy
 Silent Hill 2
 Grand Theft Auto V
 Dark Souls
@@ -1662,7 +1662,7 @@ Okami
 999: Nine Hours, Nine Persons, Nine Doors
 Super Mario 64
 Strider
-Jak & Daxter
+Jak and Daxter: The Precursor Legacy
 Final Fantasy VII
 Persona 4
 Dragon Quest 8
