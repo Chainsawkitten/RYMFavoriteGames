@@ -1384,7 +1384,7 @@ Mass Effect
 Psychonauts
 Papers, Please
 {SUPER_Lonely_Panda
-1. Harvester
+Harvester
 {Yakmang
 Baldurs Gate 2: Shadows of Amn 
 Okami
