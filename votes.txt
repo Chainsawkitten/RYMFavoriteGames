@@ -333,7 +333,7 @@ S.T.A.L.K.E.R.: Shadow of Chernobyl
 Gothic II
 Romance of the Three Kingdoms XI
 Baldur's Gate II: Shadows of Amn
-Nine Hours, Nine Persons, Nine Doors
+999: Nine Hours, Nine Persons, Nine Doors
 Dragon Ball Z: Budokai Tenkaichi 3
 Dead Space 2
 Indigo Prophecy
@@ -624,7 +624,7 @@ Danganronpa: Trigger Happy Havoc
 The World Ends With You
 Gone Home
 Persona 4 Golden
-Nine Hours, Nine Persons, Nine Doors
+999: Nine Hours, Nine Persons, Nine Doors
 The Sims 2
 The Movies
 Metro 2033
@@ -1659,7 +1659,7 @@ Culdcept
 Gauntlet
 Dig Dug
 Okami
-999
+999: Nine Hours, Nine Persons, Nine Doors
 Super Mario 64
 Strider
 Jak & Daxter
@@ -1762,7 +1762,7 @@ Dark Souls
 Super Mario World 2: Yoshi's Island
 Takashi's Challenge
 The Path
-999
+999: Nine Hours, Nine Persons, Nine Doors
 Flower, Sun, Rain
 {Celebros
 Final Fantasy VII
