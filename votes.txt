@@ -95,7 +95,7 @@ Guwange
 Warcraft III: The Frozen Throne
 Unreal Tournament
 Sutte Hakkun
-Heroes of Might and Magic III Complete
+Heroes of Might and Magic III
 The Embodiment of Scarlet Devil
 Middens
 Super Mario World 2: Yoshi's Island
@@ -470,7 +470,7 @@ WWF - No Mercy
 The Sims 3
 Star Trek: Starfleet Command
 Dwarf Fortress
-Heroes of Might and Magic 4
+Heroes of Might and Magic IV
 Myst 3: Exile
 Might and Magic 8
 Might and Magic 7
@@ -497,7 +497,7 @@ One Must Fall 2097
 Jazz Jackrabbit 2
 Wipeout 2097
 Star Wars: Jedi Knight
-Heroes of Might and Magic 3
+Heroes of Might and Magic III
 {Toadfan64
 Mario Kart 64
 Super Mario 64
@@ -689,7 +689,7 @@ Golden Sun
 Final Fantasy Tactics Advance
 Super Famicom Wars
 Super Hexagon
-Heroes of Might and Magic 3
+Heroes of Might and Magic III
 Terraria
 Final Fantasy Tactics
 Adventures of Lolo 3
@@ -1653,7 +1653,7 @@ Dragon Quest Monsters 2
 Robotron 2084
 Valkyria Chronicles
 Klonoa 2
-Heroes of Might & Magic 3
+Heroes of Might & Magic III
 Phoenix Wright: Ace Attorney
 Culdcept
 Gauntlet
