@@ -589,7 +589,7 @@ Shadowrun
 Shinobi III: Return of the Ninja Master
 Killer 7
 Super Mario World
-Castkevania: Aria of Sorrow
+Castlevania: Aria of Sorrow
 World of Goo
 LittleBigPlanet
 Heavy Rain
@@ -1495,7 +1495,7 @@ Metal Gear Solid 2 - Sons of Liberty
 X-Men 2 : Clone Wars
 God of War
 Silent Hill
-Castlevania - Symphony of the Night
+Castlevania: Symphony of the Night
 Battletech / Mechwarrior 3050
 Zone of the Enders - The 2nd Runner
 Earthworm Jim 2
@@ -1842,7 +1842,7 @@ Alpha Protocol
 Grand Theft Auto V
 Hotline Miami
 Valkyria Chronicles
-Castlevania SOTN
+Castlevania: Symphony of the Night
 Ranger X
 Tron 2.0
 Magic Carpet
