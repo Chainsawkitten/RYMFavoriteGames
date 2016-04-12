@@ -843,7 +843,7 @@ Mass Effect 2
 Final Fantasy VI
 Lufia 2
 Lufia 2
-Disgaea
+Disgaea: Hour of Darkness
 Mass Effect 3
 Lost Odyssey
 Persona 3
@@ -1062,7 +1062,7 @@ Sonic and All Stars Racing Transformed
 Sonic Generations
 Rayman Origins
 Mario Tennis
-Dishonoured
+Dishonored
 {emee
 Metal Gear Solid 3: Snake Eater
 Portal 2
