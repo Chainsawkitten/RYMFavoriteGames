@@ -10,8 +10,9 @@ function GameList() {
  * Adds the game to the game list if it doesn't already exist.
  * Arguments:
  *  gameName - Name of the game to vote for.
+ *  vote - The place in the user's list.
  */
-GameList.prototype.addVote = function(gameName) {
+GameList.prototype.addVote = function(gameName, vote) {
     // See if the game already exists.
     var index;
     var found = false;
@@ -28,5 +29,5 @@ GameList.prototype.addVote = function(gameName) {
         this.games[index] = new Game(gameName);
     }
     
-    // TODO: Do other voting stuff.
+    this.games[index].addVote(vote);
 };

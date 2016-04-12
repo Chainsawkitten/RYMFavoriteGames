@@ -7,7 +7,7 @@ function displayResults(games) {
     var html = '';
     
     for (var i = 0; i < games.length; ++i) {
-        html += '<div class="game">' + games[i].name + '</div>\n';
+        html += '<div class="game">' + (i + 1) + '. ' + games[i].name + ' Votes: ' + games[i].votes.length + '</div>\n';
     }
     
     document.getElementById('results').innerHTML = html;
