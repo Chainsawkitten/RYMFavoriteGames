@@ -4,12 +4,13 @@
  *  games - The list of games to display.
  */
 function displayResults(games) {
-    var div = document.getElementById('results');
-    div.innerHTML = "";
+    var html = '';
     
     for (var i = 0; i < games.length; ++i) {
-        div.innerHTML += '<div class="game">' + games[i].name + '</div>\n';
+        html += '<div class="game">' + games[i].name + '</div>\n';
     }
+    
+    document.getElementById('results').innerHTML = html;
 }
 
 /**
@@ -25,11 +26,28 @@ function getVotes(fileContents) {
         if (contents[i].charAt(0) == '{') {
             users.push(new User(contents[i].substring(1)));
         } else {
-            users[users.length - 1].votes.push(contents[i]);
+            users[users.length - 1].vote(contents[i]);
         }
     }
     
     return users;
+}
+
+/**
+ * Builds a game list from user votes.
+ * Arguments:
+ *  users - A list of users.
+ */
+function buildGameList(users) {
+    var gameList = new GameList();
+    
+    for (var user = 0; user < users.length; ++user) {
+        for (var game = 0; game < users[user].votes.length; ++game) {
+            gameList.addVote(users[user].votes[game]);
+        }
+    }
+    
+    return gameList;
 }
 
 /**
@@ -44,7 +62,7 @@ function main() {
     var request = new XMLHttpRequest();
     request.onreadystatechange = function() {
         if (request.readyState == 4) {
-            displayResults(getVotes(request.responseText));
+            displayResults(buildGameList(getVotes(request.responseText)).games);
         }
     };
     request.open("GET", "votes.txt", true);
