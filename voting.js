@@ -2,11 +2,12 @@
  * Display the results on the web page.
  * Arguments:
  *  games - The list of games to display.
+ *  show - How many games to show.
  */
-function displayResults(games) {
+function displayResults(games, show) {
     var html = '';
     
-    for (var i = 0; i < games.length; ++i) {
+    for (var i = 0; i < games.length && i < show; ++i) {
         html += '<div class="game">' + (i + 1) + '. ' + games[i].name + ' Votes: ' + games[i].votes.length + ' Score: ' + games[i].score + '</div>\n';
     }
     
@@ -55,8 +56,9 @@ function buildGameList(users) {
  * Arguments:
  *  scoreFunction - Function to use to score games.
  *  sortFunction - Function to use to sort games.
+ *  show - How many games to show.
  */
-function getAndDisplayGames(scoreFunction, sortFunction) {
+function getAndDisplayGames(scoreFunction, sortFunction, show) {
     // Display loading message.
     document.getElementById('results').innerHTML = "Working...";
     
@@ -77,7 +79,7 @@ function getAndDisplayGames(scoreFunction, sortFunction) {
             games = games.sort(sortFunction);
             
             // Display the results.
-            displayResults(games);
+            displayResults(games, show);
         }
     };
     request.open("GET", "votes.txt", true);
@@ -111,7 +113,20 @@ function updateGames() {
             sortingFunction = sortScoreDescending;
     }
     
-    getAndDisplayGames(scoreFunction, sortingFunction);
+    var show;
+    switch (document.getElementById('show').value) {
+        case '500':
+            show = 500;
+            break;
+        case 'all':
+            show = 1000;
+            break;
+        case '100':
+        default:
+            show = 100;
+    }
+    
+    getAndDisplayGames(scoreFunction, sortingFunction, show);
 }
 
 /**
@@ -124,6 +139,7 @@ function main() {
     
     document.getElementById('scoringFormula').onchange = updateGames;
     document.getElementById('sortBy').onchange = updateGames;
+    document.getElementById('show').onchange = updateGames;
     
     updateGames();
 }
