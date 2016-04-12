@@ -21,7 +21,7 @@ Max Payne 2: The Fall of Max Payne
 God Hand
 Chrono Cross
 Dragon Quest VIII
-Pokemon Crystal
+Pokémon Gold & Silver & Crystal
 Final Fantasy VI
 Metroid Prime
 Demon's Souls
@@ -212,7 +212,7 @@ Fatal Frame
 Metro: Last Light
 The Stanley Parable
 The Legend of Zelda: Majora's Mask
-Pokemon Ruby & Sapphire & Emerald
+Pokémon Ruby & Sapphire & Emerald
 {adobe
 Shin Megami Tensei: Persona 3
 Pokémon HeartGold & SoulSilver
@@ -226,7 +226,7 @@ Mother 3
 Metal Gear Solid 2: Sons of Liberty
 The Legend of Heroes: Trails in the Sky
 The World Ends With You
-Pokemon Ruby & Sapphire & Emerald
+Pokémon Ruby & Sapphire & Emerald
 Gunstar Heroes
 Phoenix Wright: Ace Attorney - Trials and Tribulations
 Final Fantasy VII
@@ -508,10 +508,10 @@ Super Mario World
 Donkey Kong Country
 Super Mario Bros. 3
 Donkey Kong Country 2: Diddy's Kong Quest
-Pokemon Red & Blue & Yellow
+Pokémon Red & Blue & Yellow
 Grand Theft Auto: Vice City
 Super Mario Galaxy
-Pokemon Gold & Silver & Crystal
+Pokémon Gold & Silver & Crystal
 Donkey Kong 64
 Wario Land 4
 Super Mario Galaxy 2
@@ -534,7 +534,7 @@ Mario Party 1
 Beetle Adventure Racing
 Fire Emblem: Awakening
 Animal Crossing
-Pokemon Ruby & Sapphire & Emerald
+Pokémon Ruby & Sapphire & Emerald
 Donkey Kong Country 3 Dixie Kong's Double Trouble
 Tony Hawk Pro Skater
 Gears of War 2
@@ -739,7 +739,7 @@ Battlefield Bad Company
 BioShock
 Total Annihilation
 Tomb Raider (1996)
-Pokemon Yellow
+Pokémon Red & Blue & Yellow
 Counter-Strike
 Animal Crossing
 Diablo II
@@ -968,7 +968,7 @@ Day of the Tentacle
 Child of Eden
 Tales From the Borderlands
 Shin Megami Tensei: Persona 4
-Pokemon Red & Blue & Yellow
+Pokémon Red & Blue & Yellow
 Catherine
 The Legend of Zelda: Ocarina of Time
 #IDARB
@@ -1054,7 +1054,7 @@ The Legend of Zelda: Windwaker HD
 Uncharted 3
 Super Mario Galaxy 2
 Tony Hawk's Pro Skater
-Pokemon Red & Blue & Yellow
+Pokémon Red & Blue & Yellow
 Full Throttle
 Diablo II
 Warcraft 3
@@ -1103,7 +1103,7 @@ Bioshock Infinite
 Valkyria Chronicles
 Devil May Cry 4
 South Park: Stick of the Truth
-Pokemon FireRed & LeafGreen
+Pokémon FireRed & LeafGreen
 BioShock 2
 Super Mario 64
 Pro Evolution Soccer 6
@@ -1125,7 +1125,7 @@ Half-Life 2
 Mass Effect 2
 Battlefield 2
 World of Warcraft: The Burning Crusade
-Pokemon Gold
+Pokémon Gold & Silver & Crystal
 Dragon Ball Z: The Legacy of Goku II
 XG3: Extreme G Racing
 Quake III
@@ -1144,7 +1144,7 @@ Dragon Age: Origins
 World of Warcraft
 BioShock
 BioShock Infinite
-Pokemon Red & Blue & Yellow
+Pokémon Red & Blue & Yellow
 {lisa_
 The Witness
 The Talos Principle
@@ -1262,7 +1262,7 @@ Alan Wake
 Shadow of the Colossus
 Journey
 The Legend of Zelda: Link's Awakening DX
-Pokemon Red & Blue & Yellow
+Pokémon Red & Blue & Yellow
 Championship Manager 01/02
 Day of the Tentacle
 Portal
@@ -1283,7 +1283,7 @@ L'amerzone
 Planescape: Torment
 Fallout
 Super Mario World 2: Yoshi's Island
-Pokemon Red & Blue & Yellow
+Pokémon Red & Blue & Yellow
 Jagged Alliance 2
 Heroes of Might and Magic III
 Paper Mario
@@ -1310,7 +1310,7 @@ Ultima: Worlds of Adventure 2: Martian Dreams
 Demon's Souls
 Dark Souls
 Vampire The Masquerade: Bloodlines
-Pokemon Gold & Silver & Crystal
+Pokémon Gold & Silver & Crystal
 Touhou Seirensen: Undefined Fantastic Object
 Star Wars: Knights of the Old Republic 2
 Kirby 64: The Crystal Shards
@@ -1512,11 +1512,11 @@ Metro - Redux
 Fable: TLC
 RollerCoaster Tycoon
 Super Smash Bros.
-Pokemon Gold/Silver
+Pokémon Gold & Silver & Crystal
 Super Smash Bros. Melee
 SSX 3
 Star Wars: Battlefront II
-Pokemon Red & Blue & Yellow
+Pokémon Red & Blue & Yellow
 Fable: 2
 Oddworld: Munch's Oddysee
 NBA 2K11
@@ -1540,7 +1540,7 @@ Super Mario 64
 Final Fantasy VI
 Space Invaders
 Braid
-Pokemon Gold & Silver & Crystal
+Pokémon Gold & Silver & Crystal
 Ratchet & Clank: Going Commando
 Killer7
 Super Smash Bros. Melee
@@ -1548,7 +1548,7 @@ Yoshi's Story
 Bee
 Sonic Adventure 2
 Plumbers Don't Wear Ties
-Pokemon Snap
+Pokémon Snap
 Katamari Damacy
 Bioshock
 Bomberman 64
@@ -1641,7 +1641,7 @@ Tapper
 Master of Orion II: Battle at Antares
 Civilization III
 Ratchet & Clank: Up Your Arsenal
-Pokemon Gold & Silver & Crystal
+Pokémon Gold & Silver & Crystal
 Super Mario Bros.
 Sly 2
 Elevator Action
@@ -1730,7 +1730,7 @@ Ico
 Portal
 Flower
 The Legend of Zelda: The Wind Waker
-Pokemon X/Y
+Pokémon X/Y
 Crash Bandicoot 2: Cortex Strikes Back
 Sonic CD
 Final Fantasy X
