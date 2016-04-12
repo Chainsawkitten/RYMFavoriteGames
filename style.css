@@ -4,7 +4,24 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
-.game {
+.container {
     width: 800px;
+}
+
+.game {
+    width: 100%;
+    clear: left;
     text-align: left;
+}
+
+.left {
+    float: left;
+    width: 200px;
+    text-align: right;
+    font-size: 100px;
+}
+
+.right {
+    float: left;
+    width: auto;
 }

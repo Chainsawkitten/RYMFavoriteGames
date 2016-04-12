@@ -8,7 +8,10 @@ function displayResults(games, show) {
     var html = '';
     
     for (var i = 0; i < games.length && i < show; ++i) {
-        html += '<div class="game">' + (i + 1) + '. ' + games[i].name + ' Votes: ' + games[i].votes.length + ' Score: ' + games[i].score + '</div>\n';
+        html += '<div class="game">';
+        html += '<div class="left">' + (i + 1) + '</div>';
+        html += '<div class="right">' + games[i].name + ' Votes: ' + games[i].votes.length + ' Score: ' + games[i].score + '</div>';
+        html += '</div>\n';
     }
     
     document.getElementById('results').innerHTML = html;
