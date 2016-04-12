@@ -457,7 +457,7 @@ Star Wars: Galactic Battlegrounds
 Age of Empires II
 Heretic
 Doom II: Hell on Earth
-Vampire - The Masquerade: Bloodlines
+Vampire: The Masquerade - Bloodlines
 Metroid Prime
 Star Wars: Battlefront 2
 SWAT 4
@@ -1225,7 +1225,7 @@ The Elder Scrolls III: Morrowind
 Devil May Cry 3: Dante's Awakening
 Alpha Protocol
 Thief 2
-Vampire The Masquerade: Bloodlines
+Vampire: The Masquerade - Bloodlines
 The Witcher
 Metal Gear Solid
 System Shock 2
@@ -1309,7 +1309,7 @@ Ancient Domains of Mystery
 Ultima: Worlds of Adventure 2: Martian Dreams
 Demon's Souls
 Dark Souls
-Vampire The Masquerade: Bloodlines
+Vampire: The Masquerade - Bloodlines
 Pokémon Gold & Silver & Crystal
 Undefined Fantastic Object
 Star Wars: Knights of the Old Republic II - The Sith Lords
