@@ -30,7 +30,7 @@ Final Fantasy V
 Tetris
 Super Mario 64
 Super Metroid
-Okami
+Ōkami
 Resident Evil 4
 Shin Megami Tensei: Persona 4
 Final Fantasy VIII
@@ -271,7 +271,7 @@ Analogue: A Hate Story
 The Stanley Parable
 Silent Hill
 Shin Megami Tensei: Persona 4
-Okami
+Ōkami
 Kingdom Hearts II
 Dust: An Elysian Tail
 Danganronpa: Trigger Happy Havoc
@@ -1219,7 +1219,7 @@ Fallout: New Vegas
 Demon's Souls
 Deus Ex: Human Revolution
 Dragons Dogma: Dark Arisen
-Okami
+Ōkami
 Resident Evil (2002)
 The Elder Scrolls III: Morrowind
 Devil May Cry 3: Dante's Awakening
@@ -1272,7 +1272,7 @@ Age of Empires II
 Portal 2
 Ico
 Pokémon Gold & Silver & Crystal
-Okami
+Ōkami
 Silent Hill
 Syberia
 TrackMania
@@ -1387,7 +1387,7 @@ Papers, Please
 Harvester
 {Yakmang
 Baldur's Gate II: Shadows of Amn
-Okami
+Ōkami
 Undertale
 The Binding of Isaac: Rebirth
 Hotline Miami
@@ -1658,7 +1658,7 @@ Phoenix Wright: Ace Attorney
 Culdcept
 Gauntlet
 Dig Dug
-Okami
+Ōkami
 999: Nine Hours, Nine Persons, Nine Doors
 Super Mario 64
 Strider
