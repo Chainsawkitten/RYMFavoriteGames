@@ -17,7 +17,7 @@ GameList.prototype.addVote = function(gameName, vote) {
     var index;
     var found = false;
     for (index = 0; index < this.games.length; ++index) {
-        if (gameName == this.games[index].name) {
+        if (gameName.toLowerCase() == this.games[index].name.toLowerCase()) {
             found = true;
             break;
         }
