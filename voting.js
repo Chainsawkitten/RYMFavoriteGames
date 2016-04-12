@@ -10,7 +10,12 @@ function displayResults(games, show) {
     for (var i = 0; i < games.length && i < show; ++i) {
         html += '<div class="game">';
         html += '<div class="left">' + (i + 1) + '</div>';
-        html += '<div class="right">' + games[i].name + ' Votes: ' + games[i].votes.length + ' Score: ' + games[i].score + '</div>';
+        html += '<div class="right">';
+        html += '<p class="title">' + games[i].name + '</p>';
+        html += '<div class="separator"></div>';
+        html += '<p class="score">Score: ' + games[i].score + '</p>';
+        html += '<p class="votes">Votes: ' + games[i].votes.length + '</p>';
+        html += '</div>';
         html += '</div>\n';
     }
     
