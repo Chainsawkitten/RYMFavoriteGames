@@ -179,7 +179,7 @@ Mother 3
 Deadly Premonition
 Bastion
 LISA the Painful
-Danganronpa 2
+Danganronpa 2: Goodbye Despair
 The Last of Us
 OFF
 Rez
@@ -262,7 +262,7 @@ Yume Nikki
 Imperishable Night
 Beautiful Katamari
 P.T.
-Super Danganronpa 2
+Danganronpa 2: Goodbye Despair
 Dishonored
 Hatoful Boyfriend
 The Binding of Isaac: Rebirth
@@ -274,7 +274,7 @@ Persona 4 Golden
 Okami
 Kingdom Hearts 2
 Dust: An Elysian Tail
-Danganronpa
+Danganronpa: Trigger Happy Havoc
 The Embodiment of Scarlet Devil
 Perfect Cherry Blossom
 To the Moon
