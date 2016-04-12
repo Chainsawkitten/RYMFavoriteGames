@@ -1505,7 +1505,7 @@ Vectorman
 Final Fantasy VIII
 Soma
 Killzone 2
-Silent Hill 4 - The Room
+Silent Hill 4: The Room
 Ghouls 'n Ghosts
 Metro - Redux
 {stuie299
@@ -1567,7 +1567,7 @@ Super Mario Land 2: Six Golden Coins
 Final Fantasy X
 Warioware Inc. Mega Micro Games
 Crash Bandicoot: Warped
-Silent Hill III
+Silent Hill 3
 orms
 Mario Power Tennis
 Psychonauts
