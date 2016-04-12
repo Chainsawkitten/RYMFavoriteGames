@@ -1,5 +1,5 @@
 body {
-    background: #444444;
+    background: #444444 url("img/bg.png") repeat;
     color: #ffffff;
     font-family: 'Roboto Condensed', sans-serif;
 }
