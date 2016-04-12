@@ -1128,7 +1128,7 @@ World of Warcraft: The Burning Crusade
 Pokémon Gold & Silver & Crystal
 Dragon Ball Z: The Legacy of Goku II
 XG3: Extreme G Racing
-Quake III
+Quake III: Arena
 Metal Gear Solid V: The Phantom Pain
 Final Fantasy XII
 F-Zero X
@@ -1159,7 +1159,7 @@ Ori and the Blind Forest
 {wizenhymer
 Gang Beasts
 Team Fortress 2
-Quake III Arena
+Quake III: Arena
 FlatOut
 Toy Story 3
 MX vs. ATV Reflex
