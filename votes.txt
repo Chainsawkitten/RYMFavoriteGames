@@ -1312,7 +1312,7 @@ Dark Souls
 Vampire The Masquerade: Bloodlines
 Pokémon Gold & Silver & Crystal
 Touhou Seirensen: Undefined Fantastic Object
-Star Wars: Knights of the Old Republic 2
+Star Wars: Knights of the Old Republic II - The Sith Lords
 Kirby 64: The Crystal Shards
 Metal Gear Solid 3: Subsistence
 Ultima V: Warriors of Destiny
@@ -1464,7 +1464,7 @@ The Elder Scrolls V: Skyrim
 Shadow of the Colossus
 Grand Theft Auto V
 Resident Evil (2002)
-Star Wars Battlefront 2
+Star Wars: Battlefront 2
 Red Dead Redemption
 Final Fantasy VII
 Dino Crisis 2
@@ -1515,7 +1515,7 @@ Super Smash Bros.
 Pokémon Gold & Silver & Crystal
 Super Smash Bros. Melee
 SSX 3
-Star Wars: Battlefront II
+Star Wars: Battlefront 2
 Pokémon Red & Blue & Yellow
 Fable: 2
 Oddworld: Munch's Oddysee
