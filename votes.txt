@@ -154,7 +154,7 @@ The Legend of Zelda: Majora's Mask
 Super Mario 64
 Final Fantasy VI
 Secret of Mana
-Uncharted 2
+Uncharted 2: Among Thieves
 Red Dead Redemption
 The Elder Scrolls V: Skyrim
 Final Fantasy X
@@ -1051,7 +1051,7 @@ Banjo-Kazooie
 The Dig
 Diddy Kong Racing
 The Legend of Zelda: The Wind Waker HD
-Uncharted 3
+Uncharted 3: Drake's Deception
 Super Mario Galaxy 2
 Tony Hawk's Pro Skater
 Pokémon Red & Blue & Yellow
