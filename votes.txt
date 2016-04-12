@@ -3,9 +3,9 @@ Kingdom Hearts
 Earthbound
 Half-Life
 Mother 3
-Metal Gear Solid 3
+Metal Gear Solid 3: Snake Eater
 Silent Hill 2
-Metal Gear Solid 2
+Metal Gear Solid 2: Sons of Liberty
 Max Payne
 Final Fantasy IX
 Chrono Trigger
@@ -146,7 +146,7 @@ Jak and Daxter: The Precursor Legacy
 Silent Hill 2
 Grand Theft Auto V
 Dark Souls
-Metal Gear Solid 3
+Metal Gear Solid 3: Snake Eater
 Ico
 Half-Life
 Super Smash Bros Melee
@@ -575,7 +575,7 @@ Doom
 Super Mario 64
 Indiana Jones and the Fate of Atlantis
 To the Moon
-Metal Gear Solid 4
+Metal Gear Solid 4: Guns of the Patriots
 The Legend of Zelda: Link's Awakening
 Resident Evil 2
 The Legend of Zelda: Ocarina of Time
@@ -909,7 +909,7 @@ Street Fighter 4
 Metal Gear Solid
 Grand Theft Auto: Vice City
 Portal
-Metal Gear Solid 2
+Metal Gear Solid 2: Sons of Liberty
 Timesplitters 2
 Bioshock 2
 Doom II: Hell on Earth
@@ -1230,7 +1230,7 @@ The Witcher
 Metal Gear Solid
 System Shock 2
 Deadly Premonition
-Metal Gear Solid 3
+Metal Gear Solid 3: Snake Eater
 Fear
 Condemned: Criminal Origins
 Splinter Cell: Chaos Theory
@@ -1240,7 +1240,7 @@ Devil May Cry 4
 Pathologic
 God Hand
 Xcom: Enemy Unknown
-Metal Gear Solid 2
+Metal Gear Solid 2: Sons of Liberty
 Valkyria Chronicles
 Battlefield 2
 Final Fantasy VII
@@ -1332,7 +1332,7 @@ Fire Emblem: Thracia 776
 The Talos Principle
 {dustbites
 Silent Hill 2
-Metal Gear Solid 2
+Metal Gear Solid 2: Sons of Liberty
 Demon's Souls
 Silent Hill
 Final Fantasy VI
@@ -1342,7 +1342,7 @@ Shadow of the Colossus
 Final Fantasy X
 Silent Hill 3
 Prince of Persia: The Sands of Time
-Metal Gear Solid 4
+Metal Gear Solid 4: Guns of the Patriots
 Final Fantasy VIII
 Deus Ex
 Deus Ex: Human Revolution
@@ -1366,7 +1366,7 @@ Spyro: Year of the Dragon
 Resident Evil 4
 Final Fantasy XII
 Psychonauts
-Metal Gear Solid 2
+Metal Gear Solid 2: Sons of Liberty
 {AinsleyIscariot
 Super Mario 64
 Resident Evil (1996)
@@ -1471,7 +1471,7 @@ Dino Crisis 2
 Kiillzone
 Fallout 4
 Resident Evil 2
-Metal Gear Solid V - The Phantom Pain
+Metal Gear Solid V: The Phantom Pain
 Doom 3
 Resident Evil 3 - Nemesis
 Grand Theft Auto IV
@@ -1479,7 +1479,7 @@ Dino Crisis
 Silent Hill 2
 Manhunt
 Half-Life
-Metal Gear Solid 3 - Snake Eater
+Metal Gear Solid 3: Snake Eater
 Alien: Isolation
 Dying Light
 Grand Theft Auto: San Andreas
@@ -1487,11 +1487,11 @@ Gunstar Heroes
 Socom 3 - US Navy Seals
 Resident Evil 4
 Ultimate Mortal Kombat 3
-Metal Gear Solid 4 - Guns of the Patriots
+Metal Gear Solid 4: Guns of the Patriots
 Mercenaries - Playground of Destruction
 Outlast
 The Elder Scrolls IV: Oblivion
-Metal Gear Solid 2 - Sons of Liberty
+Metal Gear Solid 2: Sons of Liberty
 X-Men 2 : Clone Wars
 God of War
 Silent Hill
@@ -1555,7 +1555,7 @@ Bomberman 64
 Catherine
 Advance Wars: Dual Strike
 Dead Rising
-Metal Gear Solid IV
+Metal Gear Solid 4: Guns of the Patriots
 Big Rigs: Over the Road Racing
 Disgaea: Hour of Darkness
 The Legend of Zelda: Link's Awakening
@@ -1748,7 +1748,7 @@ Tetris
 Nier
 Super Mario Bros 3
 Shin Megami Tensei 3: Nocturne
-Metal Gear Solid 2
+Metal Gear Solid 2: Sons of Liberty
 Shadow of the Colossus
 Tail of the Sun
 Xenogears
