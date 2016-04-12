@@ -454,7 +454,7 @@ Resident Evil 4
 Freedom Force Vs the Third Reich
 Timesplitters: Future Perfect
 Star Wars: Galactic Battlegrounds
-Age of Empires 2
+Age of Empires II
 Heretic
 Doom 2
 Vampire - The Masquerade: Bloodlines
@@ -1246,7 +1246,7 @@ Battlefield 2
 Final Fantasy VII
 Half-Life
 Mount and Blade: Warband
-Age of Empires 2
+Age of Empires II
 Ninja Gaiden Black
 Metal Slug 3
 The Evil Within
