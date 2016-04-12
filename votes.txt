@@ -316,7 +316,7 @@ Katawa Shoujo
 Shin Megami Tensei: Persona 3
 Silent Hill
 Dragon Quest V: Hand of the Heavenly Bride
-Bioshock: Infinite
+BioShock Infinite
 Mafia: The City of Lost Heaven
 Disgaea: Afternoon of Darkness
 Portal 2
@@ -748,7 +748,7 @@ Yoshi's Island
 Super Monkey Ball 2
 Hitman: Contracts
 Metro 2033
-BioShock II
+BioShock 2
 Tomb Raider (2013)
 Grand Theft Auto: San Andreas
 Devil May Cry II
@@ -1099,7 +1099,7 @@ Portal
 Life is Strange
 Half-Life 2
 Just Cause 2
-Bioshock infinite
+Bioshock Infinite
 Valkyria Chronicles
 Devil May Cry 4
 South Park: Stick of the Truth
