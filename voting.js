@@ -62,7 +62,20 @@ function main() {
     var request = new XMLHttpRequest();
     request.onreadystatechange = function() {
         if (request.readyState == 4) {
-            displayResults(scoreSum(buildGameList(getVotes(request.responseText)).games));
+            // Get users and their votes.
+            var users = getVotes(request.responseText);
+            
+            // Build game list.
+            var gameList = buildGameList(users);
+            
+            // Score games according to scoring formula.
+            var games = scoreSum(gameList.games);
+            
+            // Sort games.
+            games = games.sort(sortScoreDescending);
+            
+            // Display the results.
+            displayResults(games);
         }
     };
     request.open("GET", "votes.txt", true);
