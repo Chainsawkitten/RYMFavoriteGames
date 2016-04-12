@@ -169,7 +169,7 @@ Undertale
 To the Moon
 Brothers: A Tale of Two Sons
 Nier
-Persona 4
+Shin Megami Tensei: Persona 4
 Portal 2
 Perfect Cherry Blossom
 Transistor
@@ -205,7 +205,7 @@ Sonic the Hedgehog 2
 Mega Man X
 Cave Story
 VVVVVV
-Persona 3
+Shin Megami Tensei: Persona 3
 Killer7
 Rain, House, Eternity
 Fatal Frame
@@ -214,10 +214,10 @@ The Stanley Parable
 The Legend of Zelda: Majora's Mask
 Pokemon Ruby & Sapphire & Emerald
 {adobe
-Persona 3 Portable
+Shin Megami Tensei: Persona 3
 Pokémon HeartGold & SoulSilver
 Chrono Trigger
-Persona 4 Golden
+Shin Megami Tensei: Persona 4
 Final Fantasy VI
 Super Mario Bros. 3
 EarthBound
@@ -270,7 +270,7 @@ Psychonauts
 Analogue: A Hate Story
 The Stanley Parable
 Silent Hill
-Persona 4 Golden
+Shin Megami Tensei: Persona 4
 Okami
 Kingdom Hearts II
 Dust: An Elysian Tail
@@ -623,7 +623,7 @@ Until Dawn
 Danganronpa: Trigger Happy Havoc
 The World Ends With You
 Gone Home
-Persona 4 Golden
+Shin Megami Tensei: Persona 4
 999: Nine Hours, Nine Persons, Nine Doors
 The Sims 2
 The Movies
@@ -846,9 +846,9 @@ Lufia 2
 Disgaea: Hour of Darkness
 Mass Effect 3
 Lost Odyssey
-Persona 3
+Shin Megami Tensei: Persona 3
 Last Remnant
-Persona 4
+Shin Megami Tensei: Persona 4
 Battle Isle
 Battle Isle 93
 Desktop Dungeons
@@ -967,7 +967,7 @@ A Bird Story
 Day of the Tentacle
 Child of Eden
 Tales From the Borderlands
-Persona 4
+Shin Megami Tensei: Persona 4
 Pokemon Red & Blue & Yellow
 Catherine
 The Legend of Zelda: Ocarina of Time
@@ -1426,7 +1426,7 @@ Mass Effect
 Kingdom Hearts
 Super Metroid
 Final Fantasy XII
-Persona 4
+Shin Megami Tensei: Persona 4
 Harvest Moon 64
 The Legend of Zelda: Majora's Mask
 Breath of Fire II
@@ -1664,7 +1664,7 @@ Super Mario 64
 Strider
 Jak and Daxter: The Precursor Legacy
 Final Fantasy VII
-Persona 4
+Shin Megami Tensei: Persona 4
 Dragon Quest 8
 Pirates: Legend of Black Kat
 Lost in Blue
@@ -1770,12 +1770,12 @@ Dark Souls
 Demon's Souls
 Final Fantasy IX
 Vagrant Story
-Shin Megami Tensei: Persona 4 Golden
+Shin Megami Tensei: Persona 4
 Life is Strange
 Resident Evil 4
 Xenogears
 The Last of Us
-Shin Megami Tensei: Persona 3 FES
+Shin Megami Tensei: Persona 3
 Final Fantasy XII
 Metal Gear Solid 3: Subsistence
 Ninja Gaiden Black
