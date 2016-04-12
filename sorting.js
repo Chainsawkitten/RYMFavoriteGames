@@ -22,3 +22,13 @@ function sortNameAscending(a, b) {
     else
         return 1;
 }
+
+/**
+ * Sort helper function for sorting games by number of votes (descending).
+ * Arguments:
+ *  a - Game A.
+ *  b - Game B.
+ */
+function sortVotesDescending(a, b) {
+    return b.votes.length - a.votes.length;
+}

@@ -103,6 +103,9 @@ function updateGames() {
         case 'name':
             sortingFunction = sortNameAscending;
             break;
+        case 'votes':
+            sortingFunction = sortVotesDescending;
+            break;
         case 'score':
         default:
             sortingFunction = sortScoreDescending;
