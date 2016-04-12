@@ -561,7 +561,7 @@ Super Mario Galaxy
 Pokémon Gold & Silver & Crystal
 Ico
 Hotline Miami
-Super Mario Bros 3
+Super Mario Bros. 3
 The Walking Dead: A Telltale Game Series
 Castlevania: Symphony of the Night
 Resident Evil (2002)
@@ -767,7 +767,7 @@ Gimmick!
 Final Fantasy V
 Yoshi's Island
 Zelda II: The Adventure of Link
-Super Mario Bros. 2 (JP)
+Super Mario Bros. 2
 Serial Experiments Lain
 Final Fantasy XII
 Pikmin
@@ -927,7 +927,7 @@ Saints Row IV
 Batman: Arkham Asylum
 The Binding of Isaac Rebirth
 Grand Theft Auto III
-Super Mario Bros 3
+Super Mario Bros. 3
 Big Rigs: Over the Road Racing
 Deus Ex: Human Revolution
 {Iai
@@ -1034,7 +1034,7 @@ Metroid Fusion
 Lost Constellation
 {asuma
 Monkey Island 3
-Super Mario Bros 3
+Super Mario Bros. 3
 Mass Effect 2
 The Walking Dead
 Super Mario RPG
@@ -1746,7 +1746,7 @@ Shin Megami Tensei: Strange Journey
 God Hand
 Tetris
 Nier
-Super Mario Bros 3
+Super Mario Bros. 3
 Shin Megami Tensei 3: Nocturne
 Metal Gear Solid 2: Sons of Liberty
 Shadow of the Colossus
