@@ -1140,7 +1140,7 @@ SSX 3
 Mass Effect
 Jak and Daxter: The Precursor Legacy
 Red Dead Redemption
-Dragon Age Origins
+Dragon Age: Origins
 World of Warcraft
 BioShock
 BioShock Infinite
@@ -1532,7 +1532,7 @@ Baldur's Gate Dark Alliance 2
 Batman: Arkham City
 Tekken 3
 NBA Street Vol 2
-Dragon Age Origins
+Dragon Age: Origins
 Halo 2
 {Cubbierill
 Animal Crossing
