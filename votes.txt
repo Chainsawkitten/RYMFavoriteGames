@@ -1043,7 +1043,7 @@ Final Fantasy VII
 Monkey Island 2
 Team Fortress 2
 Shovel Knight
-Roller Coaster Tycoon
+RollerCoaster Tycoon
 Gunpoint
 Pizza Express
 The Legend of Zelda: Ocarina of Time
@@ -1834,7 +1834,7 @@ Creeper World 3:Arc Eternal
 Medieval Total War
 Dwarf Fortress
 Gothic II
-Roller Coaster Tycoon
+RollerCoaster Tycoon
 Deus Ex
 Jedi Knight 2: Jedi Outcast
 N
