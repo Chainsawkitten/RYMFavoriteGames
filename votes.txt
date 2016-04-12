@@ -149,8 +149,8 @@ Dark Souls
 Metal Gear Solid 3: Snake Eater
 Ico
 Half-Life
-Super Smash Bros Melee
-Zelda: Majora's Mask
+Super Smash Bros. Melee
+The Legend of Zelda: Majora's Mask
 Super Mario 64
 Final Fantasy VI
 Secret of Mana
@@ -516,7 +516,7 @@ Donkey Kong 64
 Wario Land 4
 Super Mario Galaxy 2
 Advance Wars 2: Black Hole Rising
-Super Smash Bros. Wii U
+Super Smash Bros. for Wii U
 DOOM
 The Legend of Zelda: A Link Between Worlds
 Gears of War
@@ -584,7 +584,7 @@ Bust-a-Move
 Knytt Underground
 Fallout 3
 Grand Theft Auto: San Andreas
-Super Smash Bros Brawl
+Super Smash Bros. Brawl
 Shadowrun
 Shinobi III: Return of the Ninja Master
 Killer7
@@ -1289,7 +1289,7 @@ Heroes of Might and Magic III
 Paper Mario
 MOTHER 3
 Shoot the Bullet
-Super Smash Bros Melee
+Super Smash Bros. Melee
 F-Zero GX
 UFO: Enemy Unknown
 Deus Ex
