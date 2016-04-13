@@ -16,6 +16,14 @@ body {
     background: url("img/line.png");
 }
 
+.separator2 {
+    margin: 5px 0px;
+    padding: 0;
+    width: 500px;
+    height: 2px;
+    background: url("img/line2.png");
+}
+
 .game {
     width: 100%;
     clear: left;

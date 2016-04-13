@@ -15,7 +15,7 @@ function displayResults(show) {
         html += '<div class="left">' + (i + 1) + '</div>';
         html += '<div class="right">';
         html += '<p class="title">' + games[i].name + '</p>';
-        html += '<div class="separator"></div>';
+        html += '<div class="separator2"></div>';
         html += '<p class="score">Score: ' + games[i].score + '</p>';
         html += '<p class="votes" id="votes' + i + '" onclick="showVotes(' + i + ');">Votes: ' + games[i].votes.length + ' &#9656;</p>';
         html += '</div>';
