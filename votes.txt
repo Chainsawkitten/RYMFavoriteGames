@@ -722,7 +722,7 @@ Mass Effect
 Half-Life
 The Saboteur
 Call of Duty: Modern Warfare 2
-The Witcher III
+The Witcher III: Wild Hunt
 Halo 3
 Halo 2
 Rainbow Six Vegas 2
@@ -889,7 +889,7 @@ Bloodborne
 Portal 2
 Rise of the Tomb Raider
 Silent Hill 3
-The Witcher III
+The Witcher III: Wild Hunt
 Fallout 3
 Splatoon
 Mirror's Edge
@@ -1784,7 +1784,7 @@ Metroid Prime
 Bloodborne
 Metal Gear Solid
 Metal Gear Solid 2: Sons of Liberty
-The Witcher 3
+The Witcher III: Wild Hunt
 Legacy of Kain: Soul Reaver
 The Walking Dead
 Shin Megami Tensei: Nocturne
