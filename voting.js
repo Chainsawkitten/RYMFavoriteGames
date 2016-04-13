@@ -98,13 +98,18 @@ function getAndDisplayGames(scoreFunction, sortFunction, show) {
  * Update game list.
  */
 function updateGames() {
+    document.getElementById('sum').style.display = 'none';
+    document.getElementById('sumCount').style.display = 'none';
+    
     var scoreFunction;
     switch (document.getElementById('scoringFormula').value) {
         case 'sumCount':
+            document.getElementById('sumCount').style.display = 'block';
             scoreFunction = scoreSumCount;
             break;
         case 'sum':
         default:
+            document.getElementById('sum').style.display = 'block';
             scoreFunction = scoreSum;
     }
     
