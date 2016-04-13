@@ -51,5 +51,19 @@ function scoreAverage(games) {
  *  games - List of games to score.
  */
 function scoreIRV(games) {
-    return games;
+    var processedGames = [];
+    
+    // Perform instant-runoff voting.
+    while (games.length > 0) {
+        // Todo: Actually perform instant-runoff voting.
+        processedGames.push(games[0]);
+        games.splice(0, 1);
+    }
+    
+    // Give games scores based on their position in the list.
+    for (var i = 0; i < processedGames.length; ++i) {
+        processedGames[i].score = processedGames.length - i;
+    }
+    
+    return processedGames;
 }
