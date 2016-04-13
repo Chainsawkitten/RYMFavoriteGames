@@ -46,6 +46,46 @@ function scoreAverage(games) {
 }
 
 /**
+ * Calculate the average score of all games.
+ * Arguments:
+ *  games - List of all games.
+ */
+function calculateAverage(games) {
+    var sum = 0;
+    var votes = 0;
+    
+    for (var game = 0; game < games.length; ++game) {
+        var score = 0;
+        for (var vote = 0; vote < games[game].votes.length; ++vote) {
+            score += 51 - games[game].votes[vote];
+            votes++;
+        }
+        score /= games[game].votes.length;
+        sum += score;
+    }
+    
+    bayesianAverage = sum / games.length;
+    bayesianM = votes / games.length;
+}
+
+/**
+ * Scores the games using the bayesian estimate.
+ * Arguments:
+ *  games - List of games to score.
+ */
+function scoreBayesian(games) {
+    for (var game = 0; game < games.length; ++game) {
+        for (var vote = 0; vote < games[game].votes.length; ++vote) {
+            games[game].score += 51 - games[game].votes[vote];
+        }
+        
+        games[game].score = (games[game].score + bayesianAverage * bayesianM) / (games[game].votes.length + bayesianM);
+    }
+    
+    return games;
+}
+
+/**
  * Sorting function used in scoreIRV.
  * Arguments:
  *  a - Game A.

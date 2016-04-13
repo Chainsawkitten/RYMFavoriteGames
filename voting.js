@@ -1,6 +1,10 @@
 /// Games
 var games;
 
+/// Average score (used for Bayesian estimate).
+var bayesianAverage;
+var bayesianM;
+
 /**
  * Display the results on the web page.
  * Arguments:
@@ -118,6 +122,10 @@ function getAndDisplayGames(scoreFunction, sortFunction, show) {
             // Build game list.
             var gameList = buildGameList(users);
             
+            // Calculate things needed for Bayesian.
+            if (scoreFunction == scoreBayesian)
+                calculateAverage(gameList.games);
+            
             // Score games according to scoring formula.
             if (scoreFunction == scoreIRV)
                 games = scoreIRV(gameList.games, users);
@@ -142,6 +150,7 @@ function updateGames() {
     document.getElementById('sum').style.display = 'none';
     document.getElementById('sumCount').style.display = 'none';
     document.getElementById('average').style.display = 'none';
+    document.getElementById('bayesian').style.display = 'none';
     document.getElementById('IRV').style.display = 'none';
     
     var scoreFunction;
@@ -153,6 +162,10 @@ function updateGames() {
         case 'average':
             document.getElementById('average').style.display = 'block';
             scoreFunction = scoreAverage;
+            break;
+        case 'bayesian':
+            document.getElementById('bayesian').style.display = 'block';
+            scoreFunction = scoreBayesian;
             break;
         case 'IRV':
             document.getElementById('IRV').style.display = 'block';
