@@ -76,7 +76,7 @@ function getVotes(fileContents) {
     for (var i = 0; i < contents.length; ++i) {
         if (contents[i].charAt(0) == '{') {
             users.push(new User(contents[i].substring(1)));
-        } else {
+        } else if (contents[i].length > 0) {
             users[users.length - 1].vote(contents[i]);
         }
     }
