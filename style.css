@@ -58,3 +58,7 @@ body {
 #sumCount {
     display: none;
 }
+
+#average {
+    display: none;
+}

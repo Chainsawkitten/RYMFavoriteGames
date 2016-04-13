@@ -100,12 +100,17 @@ function getAndDisplayGames(scoreFunction, sortFunction, show) {
 function updateGames() {
     document.getElementById('sum').style.display = 'none';
     document.getElementById('sumCount').style.display = 'none';
+    document.getElementById('average').style.display = 'none';
     
     var scoreFunction;
     switch (document.getElementById('scoringFormula').value) {
         case 'sumCount':
             document.getElementById('sumCount').style.display = 'block';
             scoreFunction = scoreSumCount;
+            break;
+        case 'average':
+            document.getElementById('average').style.display = 'block';
+            scoreFunction = scoreAverage;
             break;
         case 'sum':
         default:
