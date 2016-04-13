@@ -79,6 +79,11 @@ body {
     display: none;
 }
 
+a {
+    color: #cccccc;
+    text-decoration: none;
+}
+
 .footer {
     clear: left;
 }
