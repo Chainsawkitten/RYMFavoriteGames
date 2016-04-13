@@ -1,10 +1,13 @@
+/// Games
+var games;
+
 /**
  * Display the results on the web page.
  * Arguments:
  *  games - The list of games to display.
  *  show - How many games to show.
  */
-function displayResults(games, show) {
+function displayResults(show) {
     var html = '';
     
     for (var i = 0; i < games.length && i < show; ++i) {
@@ -14,12 +17,38 @@ function displayResults(games, show) {
         html += '<p class="title">' + games[i].name + '</p>';
         html += '<div class="separator"></div>';
         html += '<p class="score">Score: ' + games[i].score + '</p>';
-        html += '<p class="votes">Votes: ' + games[i].votes.length + '</p>';
+        html += '<p class="votes" id="votes' + i + '" onclick="showVotes(' + i + ');">Votes: ' + games[i].votes.length + ' &#9656;</p>';
         html += '</div>';
         html += '</div>\n';
     }
     
     document.getElementById('results').innerHTML = html;
+}
+
+/**
+ * Show who voted for a game (and how).
+ * Arguments:
+ *  gameIndex - Index of the game in the game array.
+ */
+function showVotes(gameIndex) {
+    var html = 'Votes: ' + games[gameIndex].votes.length + ' &#9662;';
+    
+    // Todo: Show all votes.
+    
+    document.getElementById('votes' + gameIndex).innerHTML = html;
+    document.getElementById('votes' + gameIndex).onclick = function() { hideVotes(gameIndex); };
+}
+
+/**
+ * Show who voted for a game.
+ * Arguments:
+ *  gameIndex - Index of the game in the game array.
+ */
+function hideVotes(gameIndex) {
+    var html = 'Votes: ' + games[gameIndex].votes.length + ' &#9656;';
+    
+    document.getElementById('votes' + gameIndex).innerHTML = html;
+    document.getElementById('votes' + gameIndex).onclick = function() { showVotes(gameIndex); };
 }
 
 /**
@@ -81,13 +110,13 @@ function getAndDisplayGames(scoreFunction, sortFunction, show) {
             var gameList = buildGameList(users);
             
             // Score games according to scoring formula.
-            var games = scoreFunction(gameList.games);
+            games = scoreFunction(gameList.games);
             
             // Sort games.
             games = games.sort(sortFunction);
             
             // Display the results.
-            displayResults(games, show);
+            displayResults(show);
         }
     };
     request.open("GET", "votes.txt", true);
