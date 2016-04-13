@@ -46,24 +46,80 @@ function scoreAverage(games) {
 }
 
 /**
+ * Sorting function used in scoreIRV.
+ * Arguments:
+ *  a - Game A.
+ *  b - Game B.
+ */
+function sortIRV(a, b) {
+    if (a.score != 0 || b.score != 0)
+        return b.score - a.score;
+    return b.tempScore - a.tempScore;
+}
+
+/**
  * Scores the games using instant-runoff voting.
  * Arguments:
  *  games - List of games to score.
+ *  users - Users and their votes.
  */
-function scoreIRV(games) {
-    var processedGames = [];
+function scoreIRV(games, users) {
+    // Clear previous scores.
+    for (var i = 0; i < games.length; ++i) {
+        games[i].score = 0;
+    }
     
     // Perform instant-runoff voting.
-    while (games.length > 0) {
-        // Todo: Actually perform instant-runoff voting.
-        processedGames.push(games[0]);
-        games.splice(0, 1);
+    var allScored = false;
+    for (var turn = 0; !allScored; ++turn) {
+        // Clear previous scores.
+        for (var i = 0; i < games.length; ++i) {
+            games[i].tempScore = 0;
+        }
+        
+        // Loop through all users' votes and index them.
+        for (var i = 0; i < users.length; ++i) {
+            users[i].indexVotes = [];
+            
+            for (var vote = 0; vote < users[i].votes.length; ++vote) {
+                for (var game = 0; game < games.length; ++game) {
+                    if (games[game].name.toLowerCase() == users[i].votes[vote].toLowerCase()) {
+                        users[i].indexVotes.push(game);
+                        break;
+                    }
+                }
+            }
+        }
+        
+        // Score games based on votes.
+        for (var i = 0; i < users.length; ++i) {
+            // Loop through the user's votes until we found a valid one (that hasn't been discarded).
+            for (var vote = 0; vote < users[i].indexVotes.length; ++vote) {
+                if (games[users[i].indexVotes[vote]].score == 0) {
+                    games[users[i].indexVotes[vote]].tempScore++;
+                    break;
+                }
+            }
+        }
+        
+        // Sort array based on temporarily assigned scores.
+        games.sort(sortIRV);
+        
+        // Discard lowest rated games.
+        var discardScore = games[games.length - 1].tempScore;
+        for (var i = games.length - 1; i >= 0 && games[i].score == 0 && games[i].tempScore <= discardScore; --i) {
+            games[i].score = turn + 1;
+        }
+        
+        // See if all games have been given a score.
+        allScored = true;
+        for (var i = 0; i < games.length; ++i) {
+            if (games[i].score == 0) {
+                allScored = false;
+                break;
+            }
+        }
     }
     
-    // Give games scores based on their position in the list.
-    for (var i = 0; i < processedGames.length; ++i) {
-        processedGames[i].score = processedGames.length - i;
-    }
-    
-    return processedGames;
+    return games;
 }

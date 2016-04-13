@@ -120,7 +120,7 @@ function getAndDisplayGames(scoreFunction, sortFunction, show) {
             
             // Score games according to scoring formula.
             if (scoreFunction == scoreIRV)
-                games = scoreIRV(gameList.games);
+                games = scoreIRV(gameList.games, users);
             else
                 games = scoreFunction(gameList.games);
             
