@@ -6,6 +6,7 @@
 function Game(name) {
     this.name = name;
     this.score = 0;
+    this.voters = [];
     this.votes = [];
 }
 
@@ -13,7 +14,9 @@ function Game(name) {
  * Add a vote for the game.
  * Arguments:
  *  vote - The vote.
+ *  username - User who voted for it.
  */
-Game.prototype.addVote = function(vote) {
+Game.prototype.addVote = function(vote, username) {
+    this.voters.push(username);
     this.votes.push(vote);
 };

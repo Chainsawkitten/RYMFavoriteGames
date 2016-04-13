@@ -33,7 +33,16 @@ function displayResults(show) {
 function showVotes(gameIndex) {
     var html = 'Votes: ' + games[gameIndex].votes.length + ' &#9662;';
     
-    // Todo: Show all votes.
+    html += '<p>';
+    
+    for (var i = 0; i < games[gameIndex].votes.length; ++i) {
+        html += games[gameIndex].voters[i] + ' (' + games[gameIndex].votes[i] + ')';
+        
+        if (i != games[gameIndex].votes.length - 1)
+            html += ', ';
+    }
+    
+    html += '</p>';
     
     document.getElementById('votes' + gameIndex).innerHTML = html;
     document.getElementById('votes' + gameIndex).onclick = function() { hideVotes(gameIndex); };
@@ -81,7 +90,7 @@ function buildGameList(users) {
     
     for (var user = 0; user < users.length; ++user) {
         for (var game = 0; game < users[user].votes.length; ++game) {
-            gameList.addVote(users[user].votes[game], game + 1);
+            gameList.addVote(users[user].votes[game], game + 1, users[user].name);
         }
     }
     
