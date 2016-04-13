@@ -44,3 +44,12 @@ function scoreAverage(games) {
     
     return games;
 }
+
+/**
+ * Scores the games using instant-runoff voting.
+ * Arguments:
+ *  games - List of games to score.
+ */
+function scoreIRV(games) {
+    return games;
+}

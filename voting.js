@@ -119,7 +119,10 @@ function getAndDisplayGames(scoreFunction, sortFunction, show) {
             var gameList = buildGameList(users);
             
             // Score games according to scoring formula.
-            games = scoreFunction(gameList.games);
+            if (scoreFunction == scoreIRV)
+                games = scoreIRV(gameList.games);
+            else
+                games = scoreFunction(gameList.games);
             
             // Sort games.
             games = games.sort(sortFunction);
@@ -139,6 +142,7 @@ function updateGames() {
     document.getElementById('sum').style.display = 'none';
     document.getElementById('sumCount').style.display = 'none';
     document.getElementById('average').style.display = 'none';
+    document.getElementById('IRV').style.display = 'none';
     
     var scoreFunction;
     switch (document.getElementById('scoringFormula').value) {
@@ -149,6 +153,10 @@ function updateGames() {
         case 'average':
             document.getElementById('average').style.display = 'block';
             scoreFunction = scoreAverage;
+            break;
+        case 'IRV':
+            document.getElementById('IRV').style.display = 'block';
+            scoreFunction = scoreIRV;
             break;
         case 'sum':
         default:

@@ -75,6 +75,10 @@ body {
     display: none;
 }
 
+#IRV {
+    display: none;
+}
+
 .footer {
     clear: left;
 }
