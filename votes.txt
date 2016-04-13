@@ -178,7 +178,7 @@ Child of Eden
 Mother 3
 Deadly Premonition
 Bastion
-LISA the Painful
+LISA: The Painful RPG
 Danganronpa 2: Goodbye Despair
 The Last of Us
 OFF
@@ -290,7 +290,7 @@ Ratchet & Clank: Up Your Arsenal
 Guitar Hero 2
 Spiderman 2
 Ghost Trick: Phantom Detective
-LISA the Painful
+LISA: The Painful RPG
 VVVVVV
 Sly 2: Band of Thieves
 Ico
@@ -421,7 +421,7 @@ Technobabylon
 Middens
 To the Moon
 The World Ends With You
-LISA - the Painful
+LISA: The Painful RPG
 The Last Express
 Rule of Rose
 Blue Lacuna
@@ -1395,7 +1395,7 @@ Goldeneye 007
 Tetris
 Portal 2
 Tony Hawk's Pro Skater 4
-Lisa the Painful
+LISA: The Painful RPG
 Dark Souls
 Nuclear Throne
 Papers, Please
